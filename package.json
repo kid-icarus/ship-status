@@ -1,0 +1,20 @@
+{
+  "name": "ship-status",
+  "version": "1.0.0",
+  "description": "An HTTP server that describes your current relationship.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kid-icarus/ship-status"
+  },
+  "author": "Ryan Kois",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/kid-icarus/ship-status/issues"
+  },
+  "homepage": "https://github.com/kid-icarus/ship-status"
+}
